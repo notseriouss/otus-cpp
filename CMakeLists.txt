@@ -3,7 +3,7 @@ project(hw4 VERSION 1.0.0)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(main main.cpp)
+add_executable(print_ip main.cpp)
 
 
 
